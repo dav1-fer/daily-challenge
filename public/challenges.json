@@ -1,0 +1,13 @@
+[
+    { "text": "Read 10 pages of a book.", "category": "study" },
+    { "text": "Go for a 10-minute walk.", "category": "exercise" },
+    { "text": "Drink a glass of water right now.", "category": "health" },
+    { "text": "Do 15 push-ups.", "category": "exercise" },
+    { "text": "Write down 3 things you’re grateful for.", "category": "mindfulness" },
+    { "text": "Take 5 deep breaths and relax.", "category": "mindfulness" },
+    { "text": "Send a kind message to a friend or family member.", "category": "social" },
+    { "text": "Stretch for 5 minutes.", "category": "exercise" },
+    { "text": "Spend 10 minutes learning something new.", "category": "study" },
+    { "text": "Meditate for 5 minutes.", "category": "mindfulness" }
+  ]
+  
